@@ -1,1 +1,1 @@
-# Star Wars Plant Searcher
+# Star Wars Planet Searcher
