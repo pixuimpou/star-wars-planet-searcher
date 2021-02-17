@@ -69,7 +69,8 @@ header p {
     width: 90%;
     margin: 0 auto 2rem;
     padding: 2rem;
-    border-radius: 8px;    
+    border-radius: 8px; 
+    text-align: left;   
 }
 
 .card h2 {
@@ -89,4 +90,13 @@ header p {
 
 .card .category span {
     font-weight: 400;
+}
+
+.planets-container {
+    text-align: center;
+    
+}
+
+.planets-container .gif {
+    height: 50vh;
 }
